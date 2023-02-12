@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.image{
+	width = 100px;
+	height = 200px;
+	border:color = black;
+}
